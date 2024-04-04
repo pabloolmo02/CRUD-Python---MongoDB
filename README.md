@@ -4,7 +4,7 @@
 MusicApp es una aplicación web diseñada para permitir a los usuarios gestionar una colección de canciones, incluyendo información sobre el título, artista, álbum y fecha de lanzamiento. Facilita la organización y el filtrado de canciones por género y año de lanzamiento.
 
 ## Capturas de Pantalla
-![Pantalla Principal](/path/to/main_screen.png)
+![Pantalla Principal](CapturaCRUD.png)
 
 
 ## Tecnologías Utilizadas

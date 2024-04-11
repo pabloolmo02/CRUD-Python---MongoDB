@@ -16,7 +16,7 @@ MusicApp es una aplicación web diseñada para permitir a los usuarios gestionar
 - Docker
 
 ## Vídeo de Demostración
-Puedes ver un vídeo de demostración y explicación del proyecto en [este enlace](https://youtu.be/gn5vw-6liy0).
+Puedes ver un vídeo de demostración y explicación del proyecto en [este enlace](https://www.youtube.com/watch?v=gn5vw-6liy0).
 
 ## Conclusión
 Gracias por visitar nuestro proyecto. ¡Tus comentarios y contribuciones son bienvenidos!
